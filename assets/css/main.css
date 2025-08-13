@@ -138,7 +138,7 @@ h6 {
 --------------------------------------------------------------*/
 .header {
   --background-color: #151f2b;
-  --contrast-color: #444444;
+  --contrast-color: #f73535;
   color: var(--default-color);
   position: fixed;
   top: 0;
