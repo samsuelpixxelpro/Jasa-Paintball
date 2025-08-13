@@ -25,8 +25,8 @@
 :root {
   --nav-color: rgba(236, 236, 236, 0.59);  /* The default color of the main navmenu links */
   --nav-hover-color: #ffffff; /* Applied to main navmenu links when they are hovered over or active */
-  --nav-mobile-background-color: #145868; /* Used as the background color for mobile navigation menu */
-  --nav-dropdown-background-color: #145868; /* Used as the background color for dropdown items that appear when hovering over primary navigation items */
+  --nav-mobile-background-color: #b92121; /* Used as the background color for mobile navigation menu */
+  --nav-dropdown-background-color: #d12d2d; /* Used as the background color for dropdown items that appear when hovering over primary navigation items */
   --nav-dropdown-color: #ffffff; /* Used for navigation links of the dropdown items in the navigation menu. */
   --nav-dropdown-hover-color: #ececec; /* Similar to --nav-hover-color, this color is applied to dropdown navigation links when they are hovered over. */
 }
@@ -34,8 +34,8 @@
 /* Color Presets - These classes override global colors when applied to any section or element, providing reuse of the sam color scheme. */
 
 .light-background {
-  --background-color: #145868;
-  --surface-color: #1c7c93;
+  --background-color: #b92121;
+  --surface-color: #d12d2d;
 }
 
 .dark-background {
