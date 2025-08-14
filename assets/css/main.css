@@ -40,7 +40,7 @@
 .dark-background {
   --background-color: #2c2c2c; /* Background gelap elegan */
   --default-color: #ffffff; /* Teks putih */
-  --heading-color: #bfa06f; /* Heading gold elegan */
+  --heading-color: #ffffff; /* Heading gold elegan */
   --surface-color: #ffffff; /* Surface gelap lembut */
   --contrast-color: #ffffff; /* Kontras teks putih */
 }
