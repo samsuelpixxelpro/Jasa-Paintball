@@ -23,12 +23,12 @@
 
 /* Nav Menu Colors */
 :root {
-  --nav-color: rgba(44, 44, 44, 0.8);  /* Default nav abu gelap transparan */
+  --nav-color: rgba(245, 203, 203, 0.8);  /* Default nav abu gelap transparan */
   --nav-hover-color: #bfa06f; /* Hover nav warna gold elegan */
   --nav-mobile-background-color: #f4f3ef; /* Latar menu mobile krem lembut */
   --nav-dropdown-background-color: #ffffff; /* Dropdown putih */
   --nav-dropdown-color: #1a1a1a; /* Teks dropdown gelap */
-  --nav-dropdown-hover-color: #ffffff; /* Hover dropdown gold */
+  --nav-dropdown-hover-color: #bfa06f; /* Hover dropdown gold */
 }
 
 /* Color Presets */
